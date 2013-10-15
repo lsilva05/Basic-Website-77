@@ -1,3 +1,41 @@
+.container_12 {
+	background: url("../img/woodgrain.png");
+}
+
+/*LOGO*/
+#logo {
+	background-color: black;
+}
+
+img{
+	border : 10px solid #CCC;
+	padding :  10px;
+	margin : 20px;
+	border-radius: 90px;
+	box-shadow: 10px 10px 10px red, -10px -10px 0px red;
+}
+
+
+/*CONAME*/
+#coname {
+	background: grey;	
+}
+
+/*NAV*/
+#nav {
+	background: #666;	
+}
+
+/*ASIDE*/
+#aside{
+	background: #999;
+}
+
+/*MAIN*/
+#main{
+	background: white;
+}
+
 /* Main Navigation */
 li {
   background: orange;
